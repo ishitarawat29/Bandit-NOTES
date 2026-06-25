@@ -49,6 +49,7 @@ This repository documents my progress through the [OverTheWire: Bandit](https://
 ## 📈 Learning Roadmap
 
 [x]**Phase 1 (Foundations):** Linux Navigation, Permissions, and Bash Basics.
+
 [ ]**Phase 2 (Intermediate):** Networking, Scripting, and Web Security Fundamentals.
 
 
